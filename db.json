@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Fig tree",
+      "image": "https://www.gardenista.com/wp-content/uploads/2019/01/fiddle-leaf-fig-tree-ikea.png",
+      "price": 15.99,
+      "id": 8
     }
   ]
 }
